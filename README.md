@@ -21,5 +21,5 @@ npm run build
 Run the local server to serve the generated static files
 
 ```
-npm run build
+npm start
 ```
